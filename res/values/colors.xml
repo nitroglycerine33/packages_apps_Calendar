@@ -84,7 +84,7 @@
     <color name="event_center">#ff6bd697</color>
     <color name="edit_event_separator">#ff306396</color>
 
-    <color name="calendar_visible">#ff000000</color>
+    <color name="calendar_visible">#ffffffff</color>
     <color name="calendar_hidden">#ff707070</color>
     <color name="calendar_secondary_visible">#ffffffff</color>
     <color name="calendar_secondary_hidden">#ff707070</color>
